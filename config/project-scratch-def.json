@@ -1,8 +1,7 @@
 {
-    "orgName": "ursus-park",
+    "orgName": "Demo company",
     "edition": "Developer",
-    "language": "en_US",
-    "hasSampleData": false,
+    "features": ["EnableSetPasswordInApi"],
     "settings": {
         "lightningExperienceSettings": {
             "enableS1DesktopEnabled": true
